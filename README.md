@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlirezaEftekharJahanAbad
-- 👀 I’m interested in computers
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning C
 - 📫 How to reach me {
 - email : lrdaftkhar@gmail.com
 - }
